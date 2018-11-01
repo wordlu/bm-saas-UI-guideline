@@ -1,0 +1,1 @@
+/home/zhanglu/workspace/bmsaas-ui-guideline/bm-ui-guideline/tmp/source_map_concat-output_path-o1Rot0ze.tmp/assets/tests.js

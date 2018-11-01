@@ -1,0 +1,1 @@
+/home/zhanglu/workspace/bmsaas-ui-guideline/bm-ui-guideline/node_modules/ember-cli/lib/broccoli/testem.js

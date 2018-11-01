@@ -1,0 +1,1 @@
+/home/zhanglu/workspace/bmsaas-ui-guideline/bm-ui-guideline/tmp/creator-output_path-4Q07wnSQ.tmp/version.js

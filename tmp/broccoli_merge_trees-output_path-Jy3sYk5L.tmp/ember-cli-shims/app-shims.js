@@ -1,0 +1,1 @@
+/home/zhanglu/workspace/bmsaas-ui-guideline/bm-ui-guideline/tmp/broccoli_merge_trees-input_base_path-b18tWLeB.tmp/0/ember-cli-shims/app-shims.js

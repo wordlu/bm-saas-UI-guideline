@@ -1,0 +1,38 @@
+@import 'foundation';
+@import 'bm-saas-typography';
+@import 'bm-saas-button';
+// @import 'test';
+
+body {
+    margin: 30px;
+}
+.font-page-header-title {
+    @extend %font-page-header-title;
+}
+.font-empty-prompt-title {
+    @extend %font-empty-prompt-title;
+}
+.font-dialog-title {
+    @extend %font-dialog-title;
+}
+.font-form-info-title {
+    @extend %font-form-info-title;
+}
+.font-main-text {
+    @extend %font-main-text;
+}
+.font-help-text {
+    @extend %font-help-text;
+}
+.font-minimum-text {
+    @extend %font-minimum-text;
+}
+.font-system-level-link {
+    @extend %font-system-level-link;
+}
+.font-product-level-link {
+    @extend %font-product-level-link;
+}
+.bm-button-primary-default {
+    @extend %bm-button-primary-default;
+}

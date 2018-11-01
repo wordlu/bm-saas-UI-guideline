@@ -1,0 +1,1 @@
+/home/zhanglu/workspace/bmsaas-ui-guideline/bm-ui-guideline/tmp/funnel-input_base_path-9X4nRQb8.tmp/index.js

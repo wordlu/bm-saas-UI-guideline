@@ -1,0 +1,1 @@
+/home/zhanglu/workspace/bmsaas-ui-guideline/bm-ui-guideline/tmp/broccoli_merge_trees-input_base_path-XP3X4yBi.tmp/0/assets/tests.js
