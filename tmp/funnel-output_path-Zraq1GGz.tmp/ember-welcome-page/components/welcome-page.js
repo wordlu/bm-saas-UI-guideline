@@ -1,0 +1,1 @@
+/home/zhanglu/github/bm-ui-guideline/tmp/funnel-input_base_path-naL4QW9e.tmp/components/welcome-page.js
