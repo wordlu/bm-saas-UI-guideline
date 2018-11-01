@@ -1,0 +1,1 @@
+/home/zhanglu/workspace/bm-ui-guideline/tmp/broccoli_merge_trees-input_base_path-cr8Dvodc.tmp/1/ember-cli-qunit.js

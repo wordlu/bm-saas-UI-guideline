@@ -1,0 +1,1 @@
+/home/zhanglu/workspace/bm-ui-guideline/tmp/funnel-input_base_path-XFMC6fKc.tmp/-private/utils/get-header.js

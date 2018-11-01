@@ -1,0 +1,1 @@
+/home/zhanglu/workspace/bm-ui-guideline/tmp/funnel-input_base_path-EljMV9Wd.tmp/resolvers/classic/container-debug-adapter.js
